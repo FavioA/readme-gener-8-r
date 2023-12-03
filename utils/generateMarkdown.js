@@ -56,6 +56,7 @@ function renderLicenseBadge(license) {
 function generateMarkdown(data) {
     return `
   # ${data.title}
+  ${renderLicenseBadge(data.license)}
   
   ## Description
   ${data.description}
@@ -83,6 +84,8 @@ function generateMarkdown(data) {
   
   ## Tests
   ${data.tests}
+
+  ${renderLicenseSection(data.license)}
   
   ## Questions
   GitHub: [${data.username}](https://github.com/${data.username})
