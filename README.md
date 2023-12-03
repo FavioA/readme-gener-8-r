@@ -1,9 +1,9 @@
 
-  # README Generator
-  ![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
+  # klajsd
+  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
   
   ## Description
-  This application will generate a professional README.md file with user input via terminal
+  alsdjf
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,25 +14,22 @@
   - [Questions](#questions)
   
   ## Installation
-  Go to my repo and clone this repo for the generator.
+  asjdlfj
   
   
   ## Usage
-  Utilize the applicationt generate professional README files with user input.
+  alskdjf
   
   ## License
-  BSD 3
-  
+  This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
+
   ## Contributing
-  NA
+  alkjsdf
   
   ## Tests
-  None are included.
-
-  ## License
-  This project is licensed under the [BSD 3](https://opensource.org/licenses/BSD-3-Clause) license.
+  lksdf
   
   ## Questions
-  GitHub: [RogerR](https://github.com/RogerR)
-  Email: rogerr@email.com
+  GitHub: [lakjsdf](https://github.com/lakjsdf)
+  Email: asjf@ajsdlfl.com
     

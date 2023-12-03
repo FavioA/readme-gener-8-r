@@ -76,16 +76,13 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   
-  ## License
-  ${data.license}
-  
+  ${renderLicenseSection(data.license)}
+
   ## Contributing
   ${data.contributing}
   
   ## Tests
   ${data.tests}
-
-  ${renderLicenseSection(data.license)}
   
   ## Questions
   GitHub: [${data.username}](https://github.com/${data.username})
