@@ -12,5 +12,6 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "rebuild": "^0.1.2"
-  }
+  },
+  "devDependencies": {}
 }

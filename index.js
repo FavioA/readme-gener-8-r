@@ -16,9 +16,11 @@ const generateMarkdown = require('./utils/generateMarkdown');
 
 // License options array
 const licenseOptions = [
-  'MIT License',
-  'Apache License 2.0',
-  'GNU GPLv3',
+  'MIT',
+  'Apache 2.0',
+  'GPL 3.0',
+  'BSD 3',
+  'None'
   // Add more license options as needed
 ];
 
