@@ -1,7 +1,5 @@
 # readme-gener-8-r
 Professional README Generator
-# Employee-Tracker
-Content Management System
 
 ## This challenge repository contains the following:
 
