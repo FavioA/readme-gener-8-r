@@ -1,0 +1,16 @@
+{
+  "name": "readme-gener-8-r",
+  "version": "1.0.0",
+  "description": "Professional README generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "rebuild": "^0.1.2"
+  }
+}
