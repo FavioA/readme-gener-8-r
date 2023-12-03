@@ -1,9 +1,9 @@
 
-  # klajsd
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  # README Generator
+  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
   
   ## Description
-  alsdjf
+  Utililize this app to create professional README files with user input via the CLI in the terminal.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,22 +14,22 @@
   - [Questions](#questions)
   
   ## Installation
-  asjdlfj
+  Clone this repository from my repo.
   
   
   ## Usage
-  alskdjf
+  Use this application to generate professional README files with user input via the CLI in the terminal.
   
   ## License
-  This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
+  This project is licensed under the [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0) license.
 
   ## Contributing
-  alkjsdf
+  NA
   
   ## Tests
-  lksdf
+  NA
   
   ## Questions
-  GitHub: [lakjsdf](https://github.com/lakjsdf)
-  Email: asjf@ajsdlfl.com
+  GitHub: [RogerRabbit](https://github.com/RogerRabbit)
+  Email: rogerr@email.com
     
